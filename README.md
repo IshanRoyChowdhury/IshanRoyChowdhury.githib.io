@@ -1,4 +1,3 @@
-# The Dream Developer
 ## Motivation:
 I am a Software Developer based out of Bangalore, India and have worked for over five years in Automotive Software Development, and I am now planning to transition to other software engineering roles in Europe. ```I have this crazy goal of experiencing life across the world by working in different organizations and in different countries.``` I have come face to the fact that I know very little and this is the reason why I created this page in the first place. ```The idea was to create a webpage where I document my journey in transitioning into various roles as a software developer.``` I am writing this solely from the perspective of 'the present me'.
 
