@@ -1,2 +1,1 @@
-#gem "github-pages", group: :jekyll_plugins
-gem "minima"
+gem "github-pages", group: :jekyll_plugins
