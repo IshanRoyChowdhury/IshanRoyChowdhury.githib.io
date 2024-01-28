@@ -1,16 +1,9 @@
-# The Developer's Blog
-
+# The Wannabe Developer
 ## About Me
+'''Hi I am Ishan and welcome to my webpage.'''
 
-bla bla bla
-
-1. Add the following :
-
-    ``` gobble gobble gobble
-    ```
-
-### Project
-
+### Navigation
+to go there , click <here>
 
 
 
