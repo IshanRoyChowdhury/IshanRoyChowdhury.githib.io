@@ -7,9 +7,9 @@ I do not have the answer to the above questions, however I do know I want to dev
 #### [View my resume](Ishan_RoyChowdhury.pdf)
 
 ## Goals:
-1. [Competitive Programming](https://github.com/IshanRoyChowdhury/Data-Structure-and-Algorithms)
-2. [Machine Learning](https://github.com/IshanRoyChowdhury/MachineLearning)
-3. Programming Languages Expertize
+1.[Machine Learning](https://github.com/IshanRoyChowdhury/MachineLearning)
+2.[Competitive Programming](https://github.com/IshanRoyChowdhury/Data-Structure-and-Algorithms)
+3. Programming Languages Expertise
 
 [I shall be journalling my progress here as the journey unfolds](journal/entry1.md)
 
