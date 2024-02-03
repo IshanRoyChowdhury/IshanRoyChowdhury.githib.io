@@ -11,7 +11,7 @@ I do not have the answer to the above questions, however I do know I want to dev
 2. [Machine Learning](https://github.com/IshanRoyChowdhury/MachineLearning)
 3. Programming Languages Expertize
 
-[I shall be journalling my progress here as the journey unfolds](journal)
+[I shall be journalling my progress here as the journey unfolds](journal/Entry 1 : February, 2024)
 
 
 
