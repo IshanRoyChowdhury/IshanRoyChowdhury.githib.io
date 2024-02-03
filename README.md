@@ -11,7 +11,7 @@ I do not have the answer to the above questions, however I do know I want to dev
 2. [Competitive Programming](https://github.com/IshanRoyChowdhury/Data-Structure-and-Algorithms)
 3. Programming Languages Expertise
 
-   ``` I shall be journalling my progress [here](journal/entry1.md) as the journey unfolds.```
+  I shall be journalling my progress [here](journal/entry1.md) as the journey unfolds.
 
 
 
