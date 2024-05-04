@@ -4,7 +4,7 @@ I am a Software Developer currently in Croatia and have worked for over five yea
 What makes one a great software developer and how can one prepare themselves for the challenges that lies in such a career? Should I solve Leetcode problems or should I rather focus on building a portfolio in machine learning? Am I skilled enough to get in a classical Software Enginner role at a Google or Amazon or should I just stop chasing the FANG rat race and focus on a meaningful career? 
 
 I do not have the answer to the above questions, however I do know I want to develop my skills to be able to be in the rate race.
-#### [View my resume](Ishan_RoyChowdhury.pdf)
+#### [View my resume](Resume_IshanRoyChowdhury_ver5_24.pdf)
 
 ## Goals:
 1. [Machine Learning](https://github.com/IshanRoyChowdhury/MachineLearning)
